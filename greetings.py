@@ -1,0 +1,2 @@
+
+print("Pozdrowienia dla Mentora !")
