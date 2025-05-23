@@ -15,3 +15,5 @@ print(f"\nW sumie kupuję {total_items} produktów.")
 
 
 # Mój projekt do nauki Gita
+
+shopping_list["biedronka"].append("sok pomarańczowy")
