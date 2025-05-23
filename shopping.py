@@ -12,3 +12,6 @@ for shop, items in shopping_list.items():
     total_items = sum(len(items) for items in shopping_list.values())
 print(f"\nW sumie kupuję {total_items} produktów.")
 
+
+
+# Mój projekt do nauki Gita
