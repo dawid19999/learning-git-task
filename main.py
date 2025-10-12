@@ -1,2 +1,1 @@
-print("Hiszpańska inkwizycja!!!")
-print("dalej")
+print("Hello World")
