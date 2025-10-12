@@ -1,1 +1,1 @@
-print("Hiszpańska inkwizycja")
+print("Hiszpańska inkwizycja!!!")
